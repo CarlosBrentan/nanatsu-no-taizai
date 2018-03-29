@@ -7,3 +7,7 @@ puxa(pull) novidade
 adiciona(add) modificação
 comite os motivos(commit -m "")
 empurre(push) pra o repositório
+//
+//
+
+Kyoukai no Kanata é um anime lindão.
