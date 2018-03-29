@@ -3,36 +3,7 @@ Saitama é melhor que exódia!
 se eu colocar um giz na agua, e ele boiar, ele vira uma gizboia?
 //
 //
-Lista de comandos básicos do Git
-Baixar o repositório pela 1ª vez: Entre no diretório no qual deseja por os projetos e:
-git clone <endereço completo do repositório>
-ex: git clone https://github.com/jyoshiriro/aula-ladygaga
-
-Será criado um diretório com o nome do repositório. Ai, deve-se fazer 
-cd <nome do repositório>
-
-ex: cd aula-ladygaga
-
-Quando o diretório do projeto já existe em seu computador, entre ele e execute:
-
-git pull
-
-Talvez abra algum editor de texto. Apenas veja se não abriu com alguma mensagem importante e feche ele.
-
-Esse comando pull pega o que tem de novidades no repositório e atualiza em seu computador.
-
-Dai, sempre que for enviar algo que você alterou ou criou, faça estes 3 comandos:
-
-git add .
-
-git commit -m "escreva aqui o motivo das alterações"
-
-git push (aqui ele vai pedir seus login e senha do git)
-
-Caso você exclua um ou mais arquivos, o primeiro comando deve ser 
-
-git add --all
-
-Os dois comandos seguintes são os mesmos.
-
-Última atualização: Thursday, 29 Mar 2018, 15:03
+puxa(pull) novidade
+adiciona(add) modificação
+comite os motivos(commit -m "")
+empurre(push) pra o repositório
